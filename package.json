@@ -38,7 +38,7 @@
         ]
     },
     "dependencies": {
-        "@types/uuid": "^3.4.3",
+        "@types/uuid": "^7.0.1",
         "babel-cli": "^6.26.0",
         "babel-plugin-istanbul": "^4.1.6",
         "babel-register": "^6.26.0",
