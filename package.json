@@ -55,7 +55,7 @@
         "glob": "^7.1.1",
         "global": "^4.3.1",
         "gulp-ava": "^0.19.0",
-        "helmet": "^3.11.0",
+        "helmet": "^3.22.0",
         "i18n": "^0.8.3",
         "jsonwebtoken": "^8.2.1",
         "method-override": "^2.3.10",
