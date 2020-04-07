@@ -60,7 +60,7 @@
         "jsonwebtoken": "^8.2.1",
         "method-override": "^2.3.10",
         "morgan": "^1.9.0",
-        "node-monkey": "^1.0.0-beta.5",
+        "node-monkey": "^1.1.0",
         "node-sass": "^4.8.3",
         "serve-favicon": "^2.5.0"
     },
